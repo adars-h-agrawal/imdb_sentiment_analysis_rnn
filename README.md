@@ -52,8 +52,8 @@ This project analyzes the sentiment (Positive or Negative) of IMDB movie reviews
 ## ⚙️ Installation & Setup
 1. Clone the repo:
    ```bash
-  git clone https://github.com/adars-h-agrawal/imdb_sentiment_analysis_rnn.git
-  cd imdb_sentiment_analysis_rnn
+     git clone https://github.com/adars-h-agrawal/imdb_sentiment_analysis_rnn.git
+     cd imdb_sentiment_analysis_rnn
 
 2. Run the Streamlit app:
    ```bash
